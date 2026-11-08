@@ -1,0 +1,2 @@
+# NovaMacOS
+这是一个基于Linux开发的仿Mac操作系统，是基于Debian系统改编的，然后也参照了PearsOS的代码
